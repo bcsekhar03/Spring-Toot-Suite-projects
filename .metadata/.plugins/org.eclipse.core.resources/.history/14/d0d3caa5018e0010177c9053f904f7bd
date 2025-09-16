@@ -1,0 +1,12 @@
+package com.sekhar;
+
+import lombok.Data;
+
+@Data
+public class TicketInfo {
+
+	private Integer ticketId;
+	private String pnr;
+	private String status;
+	private String seatnum;
+}

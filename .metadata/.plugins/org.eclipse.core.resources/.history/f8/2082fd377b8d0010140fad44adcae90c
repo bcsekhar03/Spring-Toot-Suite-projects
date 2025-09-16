@@ -1,0 +1,14 @@
+package com.sekhar;
+
+public class Gson {
+
+	public static void main(String[] args) {
+
+		Order ord=new Order();
+		ord.setId(50012);
+		ord.setName("vishal");
+		ord.setStatus("Confirmed");
+		ord.setBillamount(1560.00);
+	}
+
+}

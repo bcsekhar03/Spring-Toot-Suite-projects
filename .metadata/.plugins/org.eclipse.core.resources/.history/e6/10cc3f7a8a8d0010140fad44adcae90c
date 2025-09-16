@@ -1,0 +1,19 @@
+package com.sekhar;
+
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class productRest {
+    @GetMapping(value="/product", produces= {"application/xml","application/json"})
+	public ResponseEntity<product> getproduct(){
+		product prod=new product();
+		prod.setPid(500);
+		prod.setName("keyboard");
+		prod.setPrice(1200.00);
+		return new ResponseEntity<>(prod, HttpStatus.OK);
+	}
+	
+}

@@ -1,0 +1,10 @@
+package com.sekhar.rest;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class DemoRestController {
+
+	String msg="Action in progress";
+    System.out.println(msg);
+}

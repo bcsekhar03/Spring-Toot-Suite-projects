@@ -1,0 +1,23 @@
+package com.sekhar;
+
+import lombok.Data;
+
+@Data
+public class ConvertjavaTojson {
+
+	public static void main(String[] args) {
+
+		Author at=new Author();
+		at.setAuthorname("Rodjhonson");
+		at.setEmail("Rod12@gmail");
+		at.setNumber(8546124512l);
+		
+		Book b=new Book();
+		b.setId(101);
+		b.setName("Spring");
+		b.setPrice(600.00);
+		b.setAuthor(at);
+		
+	}
+
+}

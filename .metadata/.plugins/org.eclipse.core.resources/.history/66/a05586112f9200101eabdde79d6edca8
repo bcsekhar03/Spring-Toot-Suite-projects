@@ -1,0 +1,34 @@
+package com.sekhar.controller;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.mockito.Mockito.when;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.sekhar.welcomeService;
+
+@WebMvcTest(value=welcomeController.class)
+public class welcomeControllerTest {
+	@MockBean
+	private welcomeService service;
+	@Autowired
+	private MockMvc mock;
+	@Test
+	public void welcomeMsgTest() throws Exception{
+		when(service.getMsg()).then Return("Welcome to our planet");
+		//preparing request
+		
+		MockHttpServletRequestBuilder req=MockMvcRequestBuilder.get("/welcome");
+		//sending request
+		
+		MvcResult result=mock.Perform(req).andReturn();
+		//get response
+		
+		MockHttpServletResponse response=mvcResult.getResponse();
+		//validate response status code
+		
+		int status=response.getstatus();
+		assertEquals(200, status);
+	}
+
+}

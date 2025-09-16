@@ -1,0 +1,10 @@
+package com.sekhar.bind;
+
+public class welcomeApi {
+	
+	public String welcome() {
+		String msg="Welcome to our new world...!!!";
+		return msg;
+	}
+
+}

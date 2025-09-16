@@ -1,0 +1,12 @@
+package com.sekhar;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class welcomeService {
+
+	public String getMsg() {
+		String msg="Welcome To New Galaxy ";
+		return msg;
+	}
+}

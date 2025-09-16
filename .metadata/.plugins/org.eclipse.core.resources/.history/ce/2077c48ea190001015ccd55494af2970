@@ -1,0 +1,26 @@
+package com.sekhar.rest;
+
+import java.util.logging.Logger;
+
+import org.slf4j.LoggerFactory;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+
+@RestController
+public class DemoRestController {
+
+	private Logger logger=LoggerFactory.getLogger(DemoRestController.class);
+	@GetMapping("/")
+	public String doAction() {
+	String msg="Action in progress";
+	try {
+	int i=100/0;
+	}
+	catch(Exception e) {
+	logger.error("Exception Occured :: "+e.getMessage());
+	throw new ArithmeticException(e.getMessage());
+	}
+    return msg;
+	}
+}

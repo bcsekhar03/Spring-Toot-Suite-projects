@@ -1,0 +1,12 @@
+server:
+  port: 8081
+  
+spring:
+  application:
+    name: welcome-API
+
+  boot:
+    admin:
+      client:
+        url: http://localhost:8080/
+        

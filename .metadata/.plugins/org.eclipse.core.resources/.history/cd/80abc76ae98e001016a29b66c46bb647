@@ -1,0 +1,24 @@
+package com.sekhar;
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class Restclass {
+
+	@Value("${messages.welcome}")
+	private String msg;
+	@Value("${messages.greet")
+	private String greetmsg;
+	
+	@GetMapping("/welcome")
+	public String msg() {
+		return msg;
+	}
+	@GetMapping("/greet")
+	public String greetmsg() {
+		return greetmsg;
+	}
+	
+}

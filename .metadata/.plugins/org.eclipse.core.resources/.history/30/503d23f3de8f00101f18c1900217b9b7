@@ -1,0 +1,14 @@
+package com.sekhar.rest;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class DataRestController {
+	public String getdatafromRedis(){
+		System.out.println("***Redis() method called");
+		String msg="***getting Data From Redis()****";
+		return msg;
+		
+	}
+
+}

@@ -1,0 +1,9 @@
+package com.sekhar.error;
+
+
+public class NoDataFound extends RuntimeException {
+
+	public void NoDataFoundException(String msg) {
+		super(msg);
+	}
+}

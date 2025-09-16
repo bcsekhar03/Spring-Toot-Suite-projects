@@ -1,0 +1,10 @@
+package com.sekhar.rest;
+
+public class BusBooking {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

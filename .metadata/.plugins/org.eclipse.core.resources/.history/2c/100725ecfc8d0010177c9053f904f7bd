@@ -1,0 +1,24 @@
+package com.sekhar;
+
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+
+public class TicketController {
+
+	@PostMapping(value="/ticket",
+			produces= {"application/json"}, 
+		    consumes= {"application/json"})
+			
+	public ResponseEntity<TicketInfo> bookticket(@RequestBody passenger request){
+		System.out.println(request);
+		
+		TicketInfo ti=new TicketInfo();
+		ti.setTicketId(1122);
+		ti.setPnr("j11253");
+		ti.setStatus("Confirmed");
+		ti.setSeatnum("S8 24");
+		return new ResponseEntity<>(ti,HttpStatus.CREATED);
+	}
+}

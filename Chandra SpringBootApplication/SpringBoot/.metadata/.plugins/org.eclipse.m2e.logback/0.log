@@ -1,0 +1,391 @@
+2023-03-03 15:15:00,146 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-03 15:19:29,535 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.chandra:Springboot:0.0.1-SNAPSHOT @ C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\pom.xml.
+2023-03-03 15:19:33,447 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Springboot/src/main/java
+2023-03-03 15:19:33,449 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Springboot/src/main/resources
+2023-03-03 15:19:33,458 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Springboot/src/main/resources
+2023-03-03 15:19:33,469 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Springboot/src/test/java
+2023-03-03 15:19:35,917 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2023-03-03 15:19:35,925 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-03 15:19:36,394 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.chandra:Springboot:0.0.1-SNAPSHOT @ C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\pom.xml.
+2023-03-03 15:19:37,211 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Springboot/src/main/java
+2023-03-03 15:19:37,212 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Springboot/src/main/resources
+2023-03-03 15:19:37,213 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Springboot/src/main/resources
+2023-03-03 15:19:37,215 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Springboot/src/test/java
+2023-03-03 15:19:38,196 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-03-03 15:19:38,282 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-03 15:19:38,646 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.chandra:Springboot:0.0.1-SNAPSHOT @ C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\pom.xml.
+2023-03-03 15:19:39,414 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Springboot/src/main/java
+2023-03-03 15:19:39,415 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Springboot/src/main/resources
+2023-03-03 15:19:39,417 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Springboot/src/main/resources
+2023-03-03 15:19:39,417 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Springboot/src/test/java
+2023-03-03 15:19:39,875 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-03-03 15:25:31,037 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.chandra:Springboot:0.0.1-SNAPSHOT @ C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\pom.xml.
+2023-03-03 15:25:32,354 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:25:32,355 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:25:32,370 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:25:33,905 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 15:25:33,932 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:25:33,936 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:26:49,780 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 15:26:49,804 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:26:49,812 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:27:42,885 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 15:27:42,908 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:27:42,916 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:28:57,059 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 15:28:57,075 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:28:57,083 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:29:09,914 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 15:29:09,929 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:29:09,934 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:29:21,465 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 15:29:21,480 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:29:21,486 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:29:40,757 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 15:29:40,773 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:29:40,781 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:30:02,194 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 15:30:02,213 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:30:02,221 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:30:18,485 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 15:30:18,506 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:30:18,514 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:31:05,480 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:31:05,481 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:31:05,486 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:31:20,399 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:31:20,400 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:31:20,406 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:31:41,206 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:31:41,207 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:31:41,214 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:32:02,365 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:32:02,366 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:32:02,373 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:37:32,154 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 15:37:32,173 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:37:32,182 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:39:27,136 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 15:39:27,156 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:39:27,166 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:39:40,795 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 15:39:40,812 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:39:40,820 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:40:25,213 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 15:40:25,230 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:40:25,235 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:42:23,329 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:42:23,330 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:42:23,337 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:43:10,433 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:43:10,433 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:43:10,435 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:43:41,664 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:43:41,665 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:43:41,671 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:45:32,401 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 15:45:32,417 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:45:32,424 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:45:33,507 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:45:33,508 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:45:33,512 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:47:39,567 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 15:47:39,583 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:47:39,592 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:53:40,453 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 15:53:40,465 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:53:40,484 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:54:27,474 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 15:54:27,491 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:54:27,498 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:56:41,391 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 15:56:41,407 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:56:41,414 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:56:50,459 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 15:56:50,475 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:56:50,479 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:57:06,544 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 15:57:06,559 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:57:06,566 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:57:17,944 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 15:57:17,958 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:57:17,966 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:58:03,885 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 15:58:03,899 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:58:04,042 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:58:20,456 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 15:58:20,474 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:58:20,480 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:58:50,863 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 15:58:50,876 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:58:50,881 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:59:04,297 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 15:59:04,313 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:59:04,319 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:59:23,071 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 15:59:23,084 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:59:23,090 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 15:59:30,810 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 15:59:30,823 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 15:59:30,828 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 16:00:11,378 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 16:00:11,398 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 16:00:11,405 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 16:00:58,093 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 16:00:58,110 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 16:00:58,117 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 16:02:57,011 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 16:02:57,027 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 16:02:57,034 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 16:03:07,840 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 16:03:07,856 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 16:03:07,863 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 16:05:02,455 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 16:05:02,470 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 16:05:02,478 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 16:07:40,218 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 16:07:40,233 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 16:07:40,237 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 16:08:20,912 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 16:08:20,925 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 16:08:20,931 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 16:09:10,781 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 16:09:10,797 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 16:09:10,803 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 16:09:46,033 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 16:09:46,046 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 16:09:46,051 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 16:09:55,231 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 16:09:55,244 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 16:09:55,248 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 16:10:06,934 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 16:10:06,948 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 16:10:06,954 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 16:10:15,226 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 16:10:15,240 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 16:10:15,246 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 16:13:23,395 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 16:13:23,419 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 16:13:23,424 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 21:26:10,087 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-03 21:27:40,024 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 21:27:40,068 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 21:27:40,075 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 21:27:53,566 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 21:27:53,593 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 21:27:53,601 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 21:28:38,250 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 21:28:38,264 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 21:28:38,273 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 21:32:59,874 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 21:32:59,889 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 21:32:59,895 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 21:34:01,634 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 21:34:01,648 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 21:34:01,654 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 21:34:10,922 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 21:34:10,934 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 21:34:10,938 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 21:34:29,081 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 21:34:29,093 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 21:34:29,099 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 21:34:52,567 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 21:34:52,579 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 21:34:52,586 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 21:35:14,290 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 21:35:14,302 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 21:35:14,307 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 21:42:40,502 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 21:42:40,510 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 21:42:40,513 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 21:47:07,490 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 21:47:07,499 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 21:47:07,502 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 21:48:03,992 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 21:48:04,000 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 21:48:04,004 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 21:48:31,247 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 21:48:31,257 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 21:48:31,261 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 21:48:54,483 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 21:48:54,493 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 21:48:54,497 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 21:53:02,913 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 21:53:02,921 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 21:53:02,924 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 21:55:20,310 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.chandra:Springboot:0.0.1-SNAPSHOT @ C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\pom.xml.
+2023-03-03 21:55:21,138 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jni/10.1.5/tomcat-jni-10.1.5.pom
+2023-03-03 21:55:21,276 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jni/10.1.5/tomcat-jni-10.1.5.pom
+2023-03-03 21:55:21,380 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jaspic-api/10.1.5/tomcat-jaspic-api-10.1.5.pom
+2023-03-03 21:55:21,486 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jaspic-api/10.1.5/tomcat-jaspic-api-10.1.5.pom
+2023-03-03 21:55:21,915 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jaspic-api/10.1.5/tomcat-jaspic-api-10.1.5.jar
+2023-03-03 21:55:21,922 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jni/10.1.5/tomcat-jni-10.1.5.jar
+2023-03-03 21:55:22,624 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-coyote/10.1.5/tomcat-coyote-10.1.5.jar
+2023-03-03 21:55:22,624 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/10.1.5/tomcat-annotations-api-10.1.5.jar
+2023-03-03 21:55:22,624 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina/10.1.5/tomcat-catalina-10.1.5.jar
+2023-03-03 21:55:23,828 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jaspic-api/10.1.5/tomcat-jaspic-api-10.1.5.jar
+2023-03-03 21:55:23,832 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/10.1.5/tomcat-annotations-api-10.1.5.jar
+2023-03-03 21:55:23,832 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jni/10.1.5/tomcat-jni-10.1.5.jar
+2023-03-03 21:55:30,780 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-coyote/10.1.5/tomcat-coyote-10.1.5.jar
+2023-03-03 21:55:31,720 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina/10.1.5/tomcat-catalina-10.1.5.jar
+2023-03-03 21:55:32,820 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 21:55:32,821 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 21:55:32,826 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 21:55:33,643 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina/10.1.5/tomcat-catalina-10.1.5-sources.jar
+2023-03-03 21:55:34,077 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 21:55:34,101 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 21:55:34,106 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 21:55:37,779 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-catalina/10.1.5/tomcat-catalina-10.1.5-sources.jar
+2023-03-03 21:55:37,783 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-catalina:10.1.5
+2023-03-03 21:55:38,147 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/10.1.5/tomcat-annotations-api-10.1.5-sources.jar
+2023-03-03 21:55:38,493 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/10.1.5/tomcat-annotations-api-10.1.5-sources.jar
+2023-03-03 21:55:38,496 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-annotations-api:10.1.5
+2023-03-03 21:55:38,809 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jni/10.1.5/tomcat-jni-10.1.5-sources.jar
+2023-03-03 21:55:39,167 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jni/10.1.5/tomcat-jni-10.1.5-sources.jar
+2023-03-03 21:55:39,172 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-jni:10.1.5
+2023-03-03 21:55:39,596 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-coyote/10.1.5/tomcat-coyote-10.1.5-sources.jar
+2023-03-03 21:55:43,443 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-coyote/10.1.5/tomcat-coyote-10.1.5-sources.jar
+2023-03-03 21:55:43,450 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-coyote:10.1.5
+2023-03-03 21:55:45,866 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jaspic-api/10.1.5/tomcat-jaspic-api-10.1.5-sources.jar
+2023-03-03 21:55:46,338 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jaspic-api/10.1.5/tomcat-jaspic-api-10.1.5-sources.jar
+2023-03-03 21:55:46,342 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-jaspic-api:10.1.5
+2023-03-03 21:55:46,672 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 21:55:46,673 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 21:55:46,676 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 21:59:41,141 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-03 22:02:10,857 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-03 22:03:05,206 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 22:03:05,223 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 22:03:05,228 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 22:05:51,465 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 22:05:51,476 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 22:05:51,481 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 22:08:34,471 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 22:08:34,482 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 22:08:34,488 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 23:16:26,231 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-03 23:18:01,069 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 23:18:01,088 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 23:18:01,092 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Springboot\src\test\resources
+2023-03-03 23:20:44,904 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.chandra:SpringbootCRUD:0.0.1-SNAPSHOT @ C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\pom.xml.
+2023-03-03 23:20:45,841 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.32/mysql-connector-j-8.0.32.pom
+2023-03-03 23:20:45,965 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.32/mysql-connector-j-8.0.32.pom
+2023-03-03 23:20:46,087 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.32/mysql-connector-j-8.0.32.jar
+2023-03-03 23:20:51,027 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.32/mysql-connector-j-8.0.32.jar
+2023-03-03 23:20:51,618 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringbootCRUD/src/main/java
+2023-03-03 23:20:51,618 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringbootCRUD/src/main/resources
+2023-03-03 23:20:51,626 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringbootCRUD/src/main/resources
+2023-03-03 23:20:51,635 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringbootCRUD/src/test/java
+2023-03-03 23:20:51,979 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2023-03-03 23:20:51,984 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-03 23:20:52,208 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.chandra:SpringbootCRUD:0.0.1-SNAPSHOT @ C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\pom.xml.
+2023-03-03 23:20:52,637 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringbootCRUD/src/main/java
+2023-03-03 23:20:52,638 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringbootCRUD/src/main/resources
+2023-03-03 23:20:52,638 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringbootCRUD/src/main/resources
+2023-03-03 23:20:52,639 [Worker-14: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringbootCRUD/src/test/java
+2023-03-03 23:20:52,787 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.32/mysql-connector-j-8.0.32-sources.jar
+2023-03-03 23:20:52,951 [Worker-14: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-03-03 23:20:58,643 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.32/mysql-connector-j-8.0.32-sources.jar
+2023-03-03 23:20:58,647 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.mysql:mysql-connector-j:8.0.32
+2023-03-03 23:30:09,281 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.chandra:SpringbootCRUD:0.0.1-SNAPSHOT @ C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\pom.xml.
+2023-03-03 23:30:10,309 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31.pom
+2023-03-03 23:30:10,514 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31.pom
+2023-03-03 23:30:10,719 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31.jar
+2023-03-03 23:30:12,472 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31.jar
+2023-03-03 23:30:13,137 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 23:30:13,138 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 23:30:13,145 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\src\test\resources
+2023-03-03 23:30:14,085 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31-sources.jar
+2023-03-03 23:30:14,530 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 23:30:14,555 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 23:30:14,558 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\src\test\resources
+2023-03-03 23:30:14,631 [Worker-22: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31-sources.jar
+2023-03-03 23:30:14,636 [Worker-22: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.mysql:mysql-connector-j:8.0.31
+2023-03-03 23:30:15,639 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 23:30:15,641 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 23:30:15,644 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\src\test\resources
+2023-03-03 23:32:22,734 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 23:32:22,742 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 23:32:22,749 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\src\test\resources
+2023-03-03 23:33:00,740 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 23:33:00,762 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 23:33:00,769 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\src\test\resources
+2023-03-03 23:34:21,830 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 23:34:21,857 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 23:34:21,862 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\src\test\resources
+2023-03-03 23:34:57,348 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 23:34:57,376 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 23:34:57,387 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\src\test\resources
+2023-03-03 23:35:26,292 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 23:35:26,308 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 23:35:26,316 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\src\test\resources
+2023-03-03 23:35:30,033 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 23:35:30,049 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 23:35:30,056 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\src\test\resources
+2023-03-03 23:36:32,657 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 23:36:32,676 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 23:36:32,681 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\src\test\resources
+2023-03-03 23:36:59,551 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 23:36:59,565 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 23:36:59,574 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\src\test\resources
+2023-03-03 23:37:11,181 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 23:37:11,193 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 23:37:11,199 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\src\test\resources
+2023-03-03 23:40:34,182 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 23:40:34,197 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 23:40:34,204 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\src\test\resources
+2023-03-03 23:44:22,828 [Worker-28: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.chandra:SpringbootCRUD:0.0.1-SNAPSHOT @ C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\pom.xml.
+2023-03-03 23:44:23,905 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 23:44:23,906 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 23:44:23,912 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\src\test\resources
+2023-03-03 23:44:25,262 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-03 23:44:25,295 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-03 23:44:25,301 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\src\test\resources
+2023-03-03 23:49:56,817 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sreenu:SP-1-datajpaCrudUSERappln-1:0.0.1-SNAPSHOT @ C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\pom.xml.
+2023-03-03 23:50:00,413 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-03 23:50:00,704 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sreenu:SP-1-datajpaCrudUSERappln-1:0.0.1-SNAPSHOT @ C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\pom.xml.
+2023-03-03 23:50:01,030 [Worker-32: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jsp-api/9.0.71/tomcat-jsp-api-9.0.71-sources.jar
+2023-03-03 23:50:01,285 [Worker-32: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-jsp-api/9.0.71/tomcat-jsp-api-9.0.71-sources.jar
+2023-03-03 23:50:01,292 [Worker-32: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.tomcat:tomcat-jsp-api:9.0.71
+2023-03-03 23:50:01,457 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-03-03 23:51:30,238 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sreenu:SP-1-datajpaCrudUSERappln-1:0.0.1-SNAPSHOT @ C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\pom.xml.
+2023-03-03 23:51:30,948 [Worker-34: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-03 23:51:31,340 [Worker-34: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.chandra:SpringbootCRUD:0.0.1-SNAPSHOT @ C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\pom.xml.
+2023-03-03 23:51:32,051 [Worker-34: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringbootCRUD/src/main/java
+2023-03-03 23:51:32,051 [Worker-34: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringbootCRUD/src/main/resources
+2023-03-03 23:51:32,052 [Worker-34: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringbootCRUD/src/main/resources
+2023-03-03 23:51:32,052 [Worker-34: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringbootCRUD/src/test/java
+2023-03-03 23:51:33,064 [Worker-34: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-03-04 00:12:51,337 [Worker-43: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.chandra:SpringbootCRUD:0.0.1-SNAPSHOT @ C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\pom.xml.
+2023-03-04 00:12:52,380 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-04 00:12:52,381 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-04 00:12:52,390 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\src\test\resources
+2023-03-04 00:12:53,669 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-04 00:12:53,689 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-04 00:12:53,694 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\src\test\resources
+2023-03-04 00:15:20,023 [Worker-44: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.chandra:SpringbootCRUD:0.0.1-SNAPSHOT @ C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\pom.xml.
+2023-03-04 00:15:20,744 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-04 00:15:20,745 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-04 00:15:20,777 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\src\test\resources
+2023-03-04 00:15:22,011 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-04 00:15:22,041 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-04 00:15:22,049 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\src\test\resources
+2023-03-04 00:16:10,409 [Worker-43: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.chandra:SpringbootCRUDUser-1:0.0.1-SNAPSHOT @ C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUDUser-1\pom.xml.
+2023-03-04 00:18:00,800 [Worker-43: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.chandra:SpringbootCRUD:0.0.1-SNAPSHOT @ C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\pom.xml.
+2023-03-04 00:18:02,761 [Worker-44: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-03-04 00:18:03,086 [Worker-44: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.chandra:SpringbootCRUD:0.0.1-SNAPSHOT @ C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\pom.xml.
+2023-03-04 00:18:03,832 [Worker-44: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-03-04 00:18:25,623 [Worker-49: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.chandra:SpringbootCRUD:0.0.1-SNAPSHOT @ C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\pom.xml.
+2023-03-04 00:18:26,577 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-04 00:18:26,614 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-04 00:18:26,623 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\src\test\resources
+2023-03-04 00:18:28,418 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-04 00:18:28,424 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-04 00:18:28,430 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringbootCRUD\src\test\resources
+2023-03-04 00:21:02,204 [Worker-48: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sekhar:Sp-1-appln:0.0.1-SNAPSHOT @ C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\Sp-1-appln\pom.xml.
+2023-03-04 11:29:35,898 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-04 11:31:08,457 [Worker-10: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sekhar:SpringBootAppln:0.0.1-SNAPSHOT @ C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringBootAppln\pom.xml.
+2023-03-04 11:43:15,869 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sekhar:SpringBootAppln:0.0.1-SNAPSHOT @ C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringBootAppln\pom.xml.
+2023-03-04 11:44:50,689 [Worker-12: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sekhar:SpringBootAppln-1:0.0.1-SNAPSHOT @ C:\Users\bcsek\Documents\workspace-spring-tool-suite-4-4.17.2.RELEASE\Chandra SpringBootApplication\SpringBoot\SpringBootAppln-1\pom.xml.
+2023-03-04 12:00:31,353 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-04 12:01:00,738 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

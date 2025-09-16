@@ -1,0 +1,35 @@
+package com.sekhar.rest;
+
+import org.springframework.http.HttpStatus;
+
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.sekhar.passenger.passenger;
+import com.sekhar.ticket.TicketInfo;
+
+@RestController
+public class BusBooking {
+
+	@PostMapping("/ticket")
+	public ResponseEntity<TicketInfo> bookticket(@RequestBody passenger pinfo){
+		
+	TicketInfo ticket=new TicketInfo();
+	ticket.setName(pinfo.getFname()+" "+pinfo.getLname());
+	ticket.setAge(pinfo.getAge());
+	ticket.setGender(pinfo.getGender());
+	ticket.setPhnum(pinfo.getPhnum());
+	ticket.setTicketId(112233);
+	ticket.setPnrnum("kq45623");
+	ticket.setDoj(pinfo.getDoj());
+	ticket.setFrom(pinfo.getFrom());
+	ticket.setTo(pinfo.getTo());
+	ticket.setSeatnum("s4 12");
+	ticket.setStatus("Confirmed");
+	ticket.setPrice(498.02);
+	return new ResponseEntity<>(ticket, HttpStatus.CREATED);
+	
+	}
+}

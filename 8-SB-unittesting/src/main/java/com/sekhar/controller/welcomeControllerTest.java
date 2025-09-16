@@ -1,0 +1,38 @@
+package com.sekhar.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import com.sekhar.welcomeService;
+
+
+
+@WebMvcTest(value=welcomeController.class)
+public class welcomeControllerTest {
+	
+	@MockBean
+	private welcomeService service;
+	
+	@Autowired
+	private MockMvc mock;
+	
+	@Test
+	public void welcomeMsgTest() throws Exception{
+		when(service.getMsg()).thenReturn("Welcome to our planet");
+		
+		/*//preparing request
+		
+		MockHttpServletRequestBuilder req=MockMvcRequestBuilders.get("/welcome");
+		//sending request
+		
+		MvcResult result=mock.perform(req).andReturn();
+		//get response
+		
+		MockHttpServletResponse response=result.getResponse();
+		//validate response status code
+		
+		int status=response.getstatus();
+		assertEquals(200, status);*/
+		
+		
+	}
+
+}

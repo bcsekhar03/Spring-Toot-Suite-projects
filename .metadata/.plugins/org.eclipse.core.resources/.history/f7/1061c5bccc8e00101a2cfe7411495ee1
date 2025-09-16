@@ -1,0 +1,13 @@
+package com.sekhar;
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class Restclass {
+
+	@Value("${welcome.msg}")
+	private String welcomeMsg;
+	private String greetMsg;	
+	
+}

@@ -1,0 +1,10 @@
+package com.sekhar.repo;
+
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.stereotype.Repository;
+
+import com.sekhar.model.studentreg;
+@Repository
+public interface studentRepo extends CrudRepository<studentreg, Integer> {
+
+}

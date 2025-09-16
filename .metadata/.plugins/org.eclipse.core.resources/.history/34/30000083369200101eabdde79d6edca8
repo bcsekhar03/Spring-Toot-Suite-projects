@@ -1,0 +1,14 @@
+package com.sekhar.controller;
+
+import java.security.Principal;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class GitHubController {
+
+	
+	public String message(Principal principal) {
+		return "WelCome "+principal.getName()+". You are Successfully logged in ";
+	}
+}

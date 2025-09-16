@@ -1,0 +1,21 @@
+package com.sekhar.rest;
+
+import java.util.Date;
+
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.GetMapping;
+
+import com.sekhar.customerEvent;
+
+import reactor.core.publisher.Mono;
+
+public class CustomerController {
+
+	@GetMapping(value="/event", produces="application/json")
+	public ResponseEntity<Mono<customerEvent>> getEvent(){
+		customerEvent event=new customerEvent("Chandra", new Date());
+		Mono<customerEvent> customer=Mono.just(event);
+		return new ResponseEntity<Mono<customerEvent>>(customer,HttpStatus.OK);
+	}
+}

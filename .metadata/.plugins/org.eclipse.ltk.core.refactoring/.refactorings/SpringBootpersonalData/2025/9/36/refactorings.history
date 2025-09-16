@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.sekhar.controller.UserController&apos; to &apos;PersonalController&apos;&#x0D;&#x0A;- Original project: &apos;SpringBootpersonalData&apos;&#x0D;&#x0A;- Original element: &apos;com.sekhar.controller.UserController&apos;&#x0D;&#x0A;- Renamed element: &apos;com.sekhar.controller.PersonalController&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;UserController&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.sekhar.controller{UserController.java[UserController" matchStrategy="1" name="PersonalController" qualified="false" references="true" similarDeclarations="false" stamp="1756919213709" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,13 @@
+package com.sekhar.bind;
+
+import org.springframework.web.bind.annotation.GetMapping;
+
+public class welcomeApi {
+	
+	@GetMapping("/")
+	public String welcome() {
+		String msg="Welcome to our new world...!!!";
+		return msg;
+	}
+
+}

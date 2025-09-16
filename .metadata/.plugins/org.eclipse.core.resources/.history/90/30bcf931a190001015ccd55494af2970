@@ -1,0 +1,20 @@
+package com.sekhar.rest;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class DemoRestController {
+
+	@GetMapping("/")
+	public String doAction() {
+	String msg="Action in progress";
+	try {
+	int i=100/0;
+	}
+	catch(Exception e) {
+	System.out.println(e);
+	}
+    return msg;
+	}
+}

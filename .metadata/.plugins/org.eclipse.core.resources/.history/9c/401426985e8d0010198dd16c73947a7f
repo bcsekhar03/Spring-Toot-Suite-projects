@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+	<id>11</id>
+	<name>sekhar</name>
+	<Phone Num>5461334662</Phone Num>
+	<addr>
+		<city>kurnool</city>
+		<country>India</country>
+		<state>A.P</state>
+	</addr>
+</person>

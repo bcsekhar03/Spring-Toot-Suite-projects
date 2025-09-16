@@ -1,0 +1,14 @@
+package com.sekhar.passenger;
+
+public class passenger {
+
+	private String fname;
+	private String lname;
+	private Integer age;
+	private String gender;
+	private String phnum;
+	private Long doj;
+	private String from;
+	private String to;
+	
+}

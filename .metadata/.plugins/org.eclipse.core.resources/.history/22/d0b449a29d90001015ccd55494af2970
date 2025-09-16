@@ -1,0 +1,7 @@
+package com.sekhar.bind;
+
+@Data
+public class ExceptionInfo {
+
+	//private String msg;
+}

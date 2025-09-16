@@ -1,0 +1,25 @@
+package com.sekhar.convert;
+
+import java.io.File;
+
+import javax.xml.bind.JAXBContext;
+import javax.xml.bind.Marshaller;
+
+import com.sekhar.bind.person;
+
+public class ConvertjavaToxml {
+
+	public static void main(String[] args) throws Exception {
+
+		person p=new person();
+		p.setId(11);
+		p.setName("sekhar");
+		p.setAge(24);
+		p.setPhno(5461334662l);
+		
+		JAXBContext instance=JAXBContext.newInstance(person.class);
+		Marshaller marshaller=instance.createMarshaller();
+		marshaller.marshal(p,new File("person.xml"));
+	}
+
+}

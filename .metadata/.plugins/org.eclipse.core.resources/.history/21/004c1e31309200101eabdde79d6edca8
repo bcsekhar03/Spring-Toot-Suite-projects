@@ -1,0 +1,41 @@
+package com.sekhar.controller;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;
+import org.springframework.boot.test.mock.mockito.MockBean;
+import org.springframework.test.web.servlet.MockMvc;
+import org.springframework.test.web.servlet.MvcResult;
+import org.springframework.test.web.servlet.request.MockHttpServletRequestBuilder;
+import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
+import org.springframework.mock.web.MockHttpServletResponse;
+
+
+@WebMvcTest(value=welcomeController.class)
+public class welcomeControllerTest {
+	
+	@MockBean
+	private welcomeService service;
+	
+	@Autowired
+	private MockMvc mock;
+	
+	@Test
+	public void welcomeMsgTest() throws Exception{
+		when(service.getMsg()).then Return("Welcome to our planet");
+		//preparing request
+		
+		MockHttpServletRequestBuilder req=MockMvcRequestBuilders.get("/welcome");
+		//sending request
+		
+		MvcResult result=mock.Perform(req).andReturn();
+		//get response
+		
+		MockHttpServletResponse response=mvcResult.getResponse();
+		//validate response status code
+		
+		int status=response.getstatus();
+		assertEquals(200, status);
+	}
+
+}

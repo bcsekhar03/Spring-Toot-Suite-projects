@@ -1,0 +1,8 @@
+package com.sekhar;
+
+@RestController
+public class welcomeController {
+
+	
+	private welcomeService service;
+}

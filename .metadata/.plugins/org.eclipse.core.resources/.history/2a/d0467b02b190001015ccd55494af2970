@@ -1,0 +1,20 @@
+package com.sekhar.rest;
+
+import org.springframework.web.bind.annotation.PathVariable;
+
+import com.sekhar.error.NoDataFound;
+
+public class BookController {
+
+	public String getPrice(@PathVariable String isbn)
+	{
+		String msg="";
+		if(isbn.equals("ISBN001"))
+		{
+			msg="Book price is : 300$";
+		}else {
+			throw new NoDataFound("Invalid ISBN");
+		}
+		return msg;
+	}
+}

@@ -1,0 +1,20 @@
+package com.sekhar.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.sekhar.welcomeService;
+
+@RestController
+public class welcomeController {
+
+	@Autowired
+	private welcomeService service;
+	
+	@GetMapping("/welcome")
+	public String welcomemsg() {
+		String msg=service.getMsg();
+		return msg;
+	}
+}
